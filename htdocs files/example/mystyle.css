@@ -1,0 +1,28 @@
+
+body{background:url("E:/Design/Random/Student Teacher page/congruent_pentagon.png");
+background-size:100% 100%;}
+
+#form{height:470px;width:320px;background-color:white;border:1px solid #999966}
+
+
+#header{width:auto;height:90px;background-color:white;border:1px solid #999966}
+.a{text-align:center;color:black;font-family:DinPro;font-size:50px;margin-top:15px;position:absolute;left:300px;}
+.img{height:90px;width:100px;float:left;margin-left:15px;}
+
+.padding{font-family:DinPro;}
+.submit{font-family:DinPro;}
+.capcha{position:absolute;left:600px}
+#imgRefresh{position:absolute;left:770px;top:380px;}
+
+
+.textbox { 
+  background: white;
+  border: 1px solid #DDD;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #DDD inset;
+  color: #666;
+  outline: none;
+  height:25px;
+  width: 275px;
+text-align:center;
+}
